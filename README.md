@@ -411,10 +411,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact & Support
 
-**Author**: Mohamed-Saber Elguelta 
-**Email**: medsaberelguelta@example.com  
-**LinkedIn**: [El Guelta Mohamed-Saber](https://linkedin.com/in/mohamed-saber-elguelta)
-**GitHub**: [@saber-elg](https://github.com/saber-elg)
+- **Author**: Mohamed-Saber Elguelta 
+- **Email**: medsaberelguelta@example.com  
+- **LinkedIn**: [El Guelta Mohamed-Saber](https://linkedin.com/in/mohamed-saber-elguelta)
+- **GitHub**: [@saber-elg](https://github.com/saber-elg)
 
 ### Reporting Issues
 Found a bug or have a feature request? Please open an issue on [GitHub Issues](https://github.com/saber-elg/active-learning-classifier/issues).
