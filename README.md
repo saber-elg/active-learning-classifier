@@ -413,7 +413,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 **Author**: Mohamed-Saber Elguelta 
 **Email**: medsaberelguelta@example.com  
-**LinkedIn**: [Elguelta Mohamed-Saber](https://linkedin.com/in/yourprofile)  
+**LinkedIn**: [El Guelta Mohamed-Saber](https://linkedin.com/in/mohamed-saber-elguelta)
 **GitHub**: [@saber-elg](https://github.com/saber-elg)
 
 ### Reporting Issues
