@@ -4,6 +4,7 @@
 [![TensorFlow](https://img.shields.io/badge/TensorFlow-2.15%2B-orange.svg)](https://www.tensorflow.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
+[![Research Paper](https://img.shields.io/badge/Paper-Available-green.svg)](docs/active_learning_research_paper.pdf)
 
 **A production-ready active learning framework for efficient image classification with minimal labeled data.**
 
@@ -31,7 +32,17 @@ This project implements a sophisticated active learning pipeline that reduces la
 - **CI/CD integration** ready
 
 ---
+## 📄 Research Paper
 
+**[📖 Read the Full Research Paper](docs/active_learning_research_paper.pdf)**
+
+This project is based on comprehensive research into active learning strategies for image classification. The paper covers:
+- Theoretical foundations of active learning
+- Comparative analysis of query strategies (Uncertainty, Margin, Entropy, BALD)
+- Experimental results on CIFAR-10 dataset
+- Cost-benefit analysis and practical implementation guidelines
+
+---
 ## 🌟 Key Features
 
 ### **Enhanced Model Architecture**
@@ -452,6 +463,10 @@ model = load_model_checkpoint("checkpoint.h5")
 
 ## 📚 References
 
+### This Project
+- **[Research Paper - Active Learning for Image Classification](docs/active_learning_research_paper.pdf)** - Full technical documentation and experimental results
+
+### Related Literature
 - [Active Learning Literature Survey](https://burrsettles.com/pub/settles.activelearning.pdf)
 - [BALD: Bayesian Active Learning by Disagreement](https://arxiv.org/abs/1112.5745)
 - [Deep Residual Learning](https://arxiv.org/abs/1512.03385)
